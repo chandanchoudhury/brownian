@@ -5,7 +5,7 @@
 #include <ctime>
 #include <unistd.h>
 
-#include "subroutines_MP.h"
+#include "subroutines.h"
 
 using namespace std;
 
